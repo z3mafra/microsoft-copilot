@@ -1,6 +1,23 @@
-# microsoft-copilot.
+# Desafio: Explorando os Recursos de IA Generativa com Copilot e OpenAI
+## Repositório: microsoft-copilot  
 
-## Explore generative AI with Microsoft Copilot
+> 1. Criar um novo repositório no github com um nome a sua preferência  
+> 2. Crie uma pasta chamada 'inputs' e salve as imagens que você utilizou
+> 3. Crie uma pasta chamado 'output' e salve os resultados de reconhecimento de texto nessas imagens
+> 4. Crie um arquivo chamado readme.md, deixe alguns prints descreva o processo, alguns insights e possibilidades que você aprendeu durante o conteúdo.
+> 2. Descrever o passo a passo para se configurar uma pesquisa, no arquivo readme.md  
+>> 4.1. Explore generative AI with Microsoft Copilot
+>>> 4.1.1. Use prompts to generate responses
+>>> 4.1.2. Try image generation
+>>> 4.1.3. Try code generation
+>>> 4.1.4. Bonus task
+>> 4.2. Explore Azure OpenAI  
+>> 4.3. Explore content filters in Azure OpenAI  
+> 5. Fnalizar e Compartilhar o link do repositório  
+>>  
+--------
+
+## 4.1. Explore generative AI with Microsoft Copilot
 In this exercise you will explore generative AI with Microsoft Copilot.
 
 ### Sign into Microsoft Copilot
@@ -10,7 +27,7 @@ Microsoft Copilot uses generative AI to enhance Bing search results. What this m
 
 Towards the bottom of the screen, you will see a window Ask me anything. As you enter prompts into the window, Copilot uses the entire conversation thread to return responses. For example, let’s try asking a series of questions about traveling.
 
-### Use prompts to generate responses
+### 4.1.1. Use prompts to generate responses
 Type in a prompt: What are 3 pros and cons of traveling in the winter?. You will see a Searching for:… and Generating… appear before the response. The model uses the searched for responses as grounding information to generate original responses. Notice that the end of the response contains links to its sources.
 A screenshot of Copilot's response to a traveling prompt with three bullets for pros and three bullets for cons.
 
@@ -24,7 +41,7 @@ Note: Notice that while Copilot is able to give a related response, it can drop 
 
 The New Topic button next to the chat window is useful. Clicking it clears the previous conversation thread so your new topic responses are not based on the previous topic. Use the New Topic icon next to the chat window to clear your message history.
 
-### Try image generation
+### 4.1.2. Try image generation
 Now let’s see an example of image generation. Type in a prompt: Create an image of an elephant eating a hamburger. Notice that a message I’ll try to create that… appears before Copilot returns a response.
 
 A screenshot of elephants eating hamgburgers.
@@ -33,10 +50,40 @@ Note: Your images may not be identical to the ones shown here.
 
 In the response, there is text at the bottom that reads “Powered by DALL-E”. DALL-E is a large language model that generates images from natural language input.
 
-### Try code generation
+### 4.1.3. Try code generation
 Now’s let’s see an example of code generation and translation. Type in a prompt: Use Python to create a list.
 
 Type in the prompt: Translate that into C#. Notice how you did not need to specify what “that” is as Copilot knows to refer to the conversation history.
 
-### Bonus task
+### 4.1.4. Bonus task
 Type in a prompt: What are 3 examples of generative AI helping people?. You can use this as a way to brainstorm your own copilot ideas!
+
+====
+## 4.2. Explore Azure OpenAI
+Azure OpenAI Service brings the generative AI models developed by OpenAI to the Azure platform, enabling you to develop powerful AI solutions that benefit from the security, scalability, and integration of services provided by the Azure cloud platform.
+
+In this exercise, you’ll explore Azure OpenAI Service and use it to deploy and experiment with generative AI models.
+
+This exercise will take approximately 25 minutes.
+
+### Before you start
+You will need an Azure subscription that has been approved for access to the Azure OpenAI service for both text and code models, and DALL-E image generation models.
+
+To sign up for a free Azure subscription, visit https://azure.microsoft.com/free.
+To request access to the Azure OpenAI service, visit https://aka.ms/oaiapply.
+
+====
+## 4.3. Explore content filters in Azure OpenAI
+Azure OpenAI includes default content filters to help ensure that potentially harmful prompts and completions are identified and removed from interactions with the service. Additionally, you can apply for permission to define custom content filters for your specific needs to ensure your model deployments enforce the appropriate responsible AI principals for your generative AI scenario. Content filtering is one element of an effective approach to responsible AI when working with generative AI models.
+
+In this exercise, you’ll explore the affect of the default content filters in Azure OpenAI.
+
+This exercise will take approximately 25 minutes.
+
+### Before you start
+You will need an Azure subscription that has been approved for access to the Azure OpenAI service.
+
+To sign up for a free Azure subscription, visit https://azure.microsoft.com/free.
+To request access to the Azure OpenAI service, visit https://aka.ms/oaiapply.
+
+====
