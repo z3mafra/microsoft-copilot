@@ -38,7 +38,7 @@ No GitHub foi criado o repositório microsoft-copilot
 > 
 > - "Novo repositório".  
 > - Nome para o repositório: "microsoft-copilot".  
-> - Descrição: "Projeto Vision Studio com três processos de identificação: Detect faces; Read text; e, Analyze images.".  
+> - Descrição: "Explorando a IA generativa com o Microsoft Copilot".  
 > - Visibilidade: "pública".  
 > - Opção: LEIAME.  
 > - Cliquei em "Criar repositório".  
