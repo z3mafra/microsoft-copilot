@@ -16,7 +16,106 @@
 > 5. Fnalizar e Compartilhar o link do repositório  
 >>  
 --------
+-------
 
+## 1. Criar um novo repositório no github com um nome a sua preferência  
+
+Na maquina local foi crido o diretório 'microsoft-copilot'  
+
+~~~bash
+$ mkdir microsoft-copilot
+~~~  
+
+Depois, iniciei o diretório como um repositório no Git.
+
+~~~bash
+$ git init
+~~~
+
+No GitHub foi criado o repositório microsoft-copilot
+
+> Comandos/configurações:  
+> 
+> - "Novo repositório".  
+> - Nome para o repositório: "microsoft-copilot".  
+> - Descrição: "Projeto Vision Studio com três processos de identificação: Detect faces; Read text; e, Analyze images.".  
+> - Visibilidade: "pública".  
+> - Opção: LEIAME.  
+> - Cliquei em "Criar repositório".  
+> 
+
+-------
+
+## 2. Criar uma pasta chamada 'inputs' e salve as imagens que você utilizou  
+
+Na maquina local, na raiz do repositório 'microsoft-copilot', foi crido o diretório 'inputs'  
+
+~~~bash
+$ mkdir inputs
+~~~  
+
+No GitHub foi criado o diretório 'inputs' no repositório recog-txt-img
+
+> Comandos/configurações:  
+> 
+> - Botão: "Add File".  
+> - Opção: + Create new file.  
+> - Preenchi: inputs/test.md  
+> - Opção: Commit changes.  
+> - Dentro do diretório 'inputs': "Add File".  
+> - Opção: Upload files 
+> - Cliquei em "Choose your files".  
+> - Carregou o conjunto de imagens.  
+>
+
+Foram salvas as imagens, utilizadas observando a codificação dos nomes para manter a ordem em que foram testadas, conforme os arquivos sugeridos na documentação, em quatro grupos: detect-faces-store-camera; exm-ocr-images; image-analysis-store-camera.  
+
+>[!NOTE]
+>
+> Os arquivos de imagens foram baixados, respectivamente, nas etapas:  
+>   - 4.2.1. (https://aka.ms/mslearn-detect-faces), para o arquivo 'detect-faces.zip';  
+>   - 4.2.2. ( https://aka.ms/mslearn-ocr-images), para o arquivo 'ocr-images.zip'; e,   
+>   - 4.2.3. (https://aka.ms/mslearn-ocr-images), para o arquivo 'ocr-images.zip'.  
+>
+-------
+
+## 3. Criar uma pasta chamado 'output' e salve os resultados de reconhecimento de texto nessas imagens  
+
+Na maquina local, na raiz do repositório 'microsoft-copilot', foi crido o diretório 'output'  
+
+~~~bash
+$ mkdir output
+~~~  
+
+No GitHub foi criado o diretório 'output' no repositório 'microsoft-copilot'
+
+> Comandos/configurações:  
+> 
+> - Botão: "Add File".  
+> - Opção: + Create new file.  
+> - Preenchi: output/test.md  
+> - Opção: Commit changes.  
+> - Dentro do diretório 'inputs': "Add File".  
+> - Opção: Upload files 
+> - Cliquei em "Choose your files".  
+> - Carregou o conjunto de imagens.
+>
+
+Foram salvas as imagens, utilizadas observando a codificação dos nomes para manter a ordem em que foram testadas, em quatro grupos: detect-faces-output-store-camera; exm-ocr-output-images; image-analysis-output-store-camera.  
+
+>[!NOTE]
+>
+> Os arquivos de imagens foram gerados nos testes, respectivamente, nas etapas:  
+>   - 4.2.1. Detect faces, passo 7;  
+>   - 4.2.2. Read text, passo 6; e,   
+>   - 4.2.3. Analyze images, passo 6.  
+>
+
+-------
+
+## 4. Criar um arquivo readme.md, incluir Prints e descrição do processo, Insights e Possibilidades aprendidas  
+
+-------
 ## 4.1. Explore generative AI with Microsoft Copilot
 In this exercise you will explore generative AI with Microsoft Copilot.
 
