@@ -6,11 +6,11 @@
 > 3. Crie uma pasta chamado 'output' e salve os resultados de reconhecimento de texto nessas imagens
 > 4. Crie um arquivo chamado readme.md, deixe alguns prints descreva o processo, alguns insights e possibilidades que você aprendeu durante o conteúdo.
 > 2. Descrever o passo a passo para se configurar uma pesquisa, no arquivo readme.md  
->> 4.1. Explore generative AI with Microsoft Copilot
->>> 4.1.1. Use prompts to generate responses
->>> 4.1.2. Try image generation
->>> 4.1.3. Try code generation
->>> 4.1.4. Bonus task
+>> 4.1. Explore generative AI with Microsoft Copilot  
+>>> 4.1.1. Use prompts to generate responses  
+>>> 4.1.2. Try image generation  
+>>> 4.1.3. Try code generation  
+>>> 4.1.4. Bonus task  
 >> 4.2. Explore Azure OpenAI  
 >> 4.3. Explore content filters in Azure OpenAI  
 > 5. Fnalizar e Compartilhar o link do repositório  
