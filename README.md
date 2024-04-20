@@ -172,7 +172,7 @@ To sign up for a free Azure subscription, visit https://azure.microsoft.com/free
 To request access to the Azure OpenAI service, visit https://aka.ms/oaiapply.
 
 ====
-## 4.3. Explore content filters in Azure OpenAI
+## 4.3. Explore content filters in Azure OpenAI  
 Azure OpenAI includes default content filters to help ensure that potentially harmful prompts and completions are identified and removed from interactions with the service. Additionally, you can apply for permission to define custom content filters for your specific needs to ensure your model deployments enforce the appropriate responsible AI principals for your generative AI scenario. Content filtering is one element of an effective approach to responsible AI when working with generative AI models.
 
 In this exercise, you’ll explore the affect of the default content filters in Azure OpenAI.
@@ -186,3 +186,4 @@ To sign up for a free Azure subscription, visit https://azure.microsoft.com/free
 To request access to the Azure OpenAI service, visit https://aka.ms/oaiapply.
 
 ====
+## 5. Fnalizar e Compartilhar o link do repositório  
