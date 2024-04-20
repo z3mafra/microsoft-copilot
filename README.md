@@ -10,7 +10,7 @@
 >>> 4.1.2. Try image generation  
 >>> 4.1.3. Try code generation  
 >>> 4.1.4. Bonus task  
-
+>> 
 >> 4.2. Explore Azure OpenAI  
 >> 4.3. Explore content filters in Azure OpenAI  
 > 5. Fnalizar e Compartilhar o link do repositório  
