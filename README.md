@@ -60,7 +60,7 @@ No GitHub foi criado o diretório 'inputs' no repositório recog-txt-img
 > 
 > - Botão: "Add File".  
 > - Opção: + Create new file.  
-> - Preenchi: inputs/test.md  
+> - Preenchi: inputs/prompts.md  
 > - Opção: Commit changes.  
 > - Dentro do diretório 'inputs': "Add File".  
 > - Opção: Upload files 
