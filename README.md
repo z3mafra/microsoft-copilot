@@ -5,7 +5,6 @@
 > 2. Crie uma pasta chamada 'inputs' e salve as imagens que você utilizou
 > 3. Crie uma pasta chamado 'output' e salve os resultados de reconhecimento de texto nessas imagens
 > 4. Crie um arquivo chamado readme.md, deixe alguns prints descreva o processo, alguns insights e possibilidades que você aprendeu durante o conteúdo.
-> 2. Descrever o passo a passo para se configurar uma pesquisa, no arquivo readme.md  
 >> 4.1. Explore generative AI with Microsoft Copilot  
 >>> 4.1.1. Use prompts to generate responses  
 >>> 4.1.2. Try image generation  
