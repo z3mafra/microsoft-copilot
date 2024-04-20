@@ -93,7 +93,7 @@ No GitHub foi criado o diretório 'output' no repositório 'microsoft-copilot'
 > 
 > - Botão: "Add File".  
 > - Opção: + Create new file.  
-> - Preenchi: output/test.md  
+> - Preenchi: output/Imagens.md  
 > - Opção: Commit changes.  
 > - Dentro do diretório 'inputs': "Add File".  
 > - Opção: Upload files 
