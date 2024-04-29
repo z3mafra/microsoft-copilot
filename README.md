@@ -253,11 +253,11 @@ Bloco 1:
 Bloco1-01  
 <img src="https://github.com/z3mafra/microsoft-copilot/blob/main/output/Bloco1-01.jpg" width="50%">  
 Bloco1-02  
-<img src="https://github.com/z3mafra/microsoft-copilot/blob/main/output/Bloco1-02.jpg" width="50%">
+<img src="https://github.com/z3mafra/microsoft-copilot/blob/main/output/Bloco1-02.jpg" width="50%">  
 Bloco1-03  
-<img src="https://github.com/z3mafra/microsoft-copilot/blob/main/output/Bloco1-03.jpg" width="50%">
+<img src="https://github.com/z3mafra/microsoft-copilot/blob/main/output/Bloco1-03.jpg" width="50%">  
 Bloco1-04  
-<img src="https://github.com/z3mafra/microsoft-copilot/blob/main/output/Bloco1-04.jpg" width="50%">
+<img src="https://github.com/z3mafra/microsoft-copilot/blob/main/output/Bloco1-04.jpg" width="50%">  
 
 Você
 crie uma imagem da terra vista do espaço, como sendo a pupila dentro de um olho!
@@ -265,13 +265,13 @@ crie uma imagem da terra vista do espaço, como sendo a pupila dentro de um olho
 Bloco 2:  
 
 Bloco2-01  
-<img src="https://github.com/z3mafra/microsoft-copilot/blob/main/output/Bloco2-01.jpg" width="50%">
+<img src="https://github.com/z3mafra/microsoft-copilot/blob/main/output/Bloco2-01.jpg" width="50%">  
 Bloco2-02  
-<img src="https://github.com/z3mafra/microsoft-copilot/blob/main/output/Bloco2-02.jpg" width="50%">
+<img src="https://github.com/z3mafra/microsoft-copilot/blob/main/output/Bloco2-02.jpg" width="50%">  
 Bloco2-03  
-<img src="https://github.com/z3mafra/microsoft-copilot/blob/main/output/Bloco2-03.jpg" width="50%">
+<img src="https://github.com/z3mafra/microsoft-copilot/blob/main/output/Bloco2-03.jpg" width="50%">  
 Bloco2-04  
-<img src="https://github.com/z3mafra/microsoft-copilot/blob/main/output/Bloco2-04.jpg" width="50%">
+<img src="https://github.com/z3mafra/microsoft-copilot/blob/main/output/Bloco2-04.jpg" width="50%">  
 
 Você
 crie uma imagem da terra vista do espaço, como sendo a pupila dentro de um olho, como parte de um rosto de pele clara !
@@ -279,13 +279,13 @@ crie uma imagem da terra vista do espaço, como sendo a pupila dentro de um olho
 Bloco 3:  
 
 Bloco3-01  
-<img src="https://github.com/z3mafra/microsoft-copilot/blob/main/output/Bloco3-01.jpg" width="50%">
+<img src="https://github.com/z3mafra/microsoft-copilot/blob/main/output/Bloco3-01.jpg" width="50%">  
 Bloco3-02  
-<img src="https://github.com/z3mafra/microsoft-copilot/blob/main/output/Bloco3-02.jpg" width="50%">
+<img src="https://github.com/z3mafra/microsoft-copilot/blob/main/output/Bloco3-02.jpg" width="50%">  
 Bloco3-03  
-<img src="https://github.com/z3mafra/microsoft-copilot/blob/main/output/Bloco3-03.jpg" width="50%">
+<img src="https://github.com/z3mafra/microsoft-copilot/blob/main/output/Bloco3-03.jpg" width="50%">  
 Bloco3-04  
-<img src="https://github.com/z3mafra/microsoft-copilot/blob/main/output/Bloco3-04.jpg" width="50%">
+<img src="https://github.com/z3mafra/microsoft-copilot/blob/main/output/Bloco3-04.jpg" width="50%">  
 
 Você
 crie uma imagem da terra vista do espaço, como sendo a pupila dentro de um olho e iris negra, como parte de um rosto de pele clara !
@@ -293,13 +293,13 @@ crie uma imagem da terra vista do espaço, como sendo a pupila dentro de um olho
 Bloco 4:  
 
 Bloco4-01  
-<img src="https://github.com/z3mafra/microsoft-copilot/blob/main/output/Bloco4-01.jpg" width="50%">
+<img src="https://github.com/z3mafra/microsoft-copilot/blob/main/output/Bloco4-01.jpg" width="50%">  
 Bloco4-02  
-<img src="https://github.com/z3mafra/microsoft-copilot/blob/main/output/Bloco4-02.jpg" width="50%">
+<img src="https://github.com/z3mafra/microsoft-copilot/blob/main/output/Bloco4-02.jpg" width="50%">  
 Bloco4-03  
-<img src="https://github.com/z3mafra/microsoft-copilot/blob/main/output/Bloco4-03.jpg" width="50%">
+<img src="https://github.com/z3mafra/microsoft-copilot/blob/main/output/Bloco4-03.jpg" width="50%">  
 Bloco4-04  
-<img src="https://github.com/z3mafra/microsoft-copilot/blob/main/output/Bloco4-04.jpg" width="50%">
+<img src="https://github.com/z3mafra/microsoft-copilot/blob/main/output/Bloco4-04.jpg" width="50%">  
 
 
 ### 4.1.3. Prompts de código
