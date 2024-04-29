@@ -68,15 +68,9 @@ No GitHub foi criado o diretório 'inputs' no repositório recog-txt-img
 > - Carregou o conjunto de imagens.  
 >
 
-Foram salvas as imagens, utilizadas observando a codificação dos nomes para manter a ordem em que foram testadas, conforme os arquivos sugeridos na documentação, em quatro grupos: detect-faces-store-camera; exm-ocr-images; image-analysis-store-camera.  
+Foram salvas os textos utilizadas como prompts, conforme as instruções sugeridos na documentação, em quatro grupos: Sobre o prompt;  Prompt para projeto de pesquisadores; Prompts de Imagens; e, Prompts para código.  
 
->[!NOTE]
->
-> Os arquivos de imagens foram baixados, respectivamente, nas etapas:  
->   - 4.2.1. (https://aka.ms/mslearn-detect-faces), para o arquivo 'detect-faces.zip';  
->   - 4.2.2. ( https://aka.ms/mslearn-ocr-images), para o arquivo 'ocr-images.zip'; e,   
->   - 4.2.3. (https://aka.ms/mslearn-ocr-images), para o arquivo 'ocr-images.zip'.  
->
+
 -------
 
 ## 3. Criar uma pasta chamado 'output' e salve os resultados de reconhecimento de texto nessas imagens  
@@ -101,14 +95,13 @@ No GitHub foi criado o diretório 'output' no repositório 'microsoft-copilot'
 > - Carregou o conjunto de imagens.
 >
 
-Foram salvas as imagens, utilizadas observando a codificação dos nomes para manter a ordem em que foram testadas, em quatro grupos: detect-faces-output-store-camera; exm-ocr-output-images; image-analysis-output-store-camera.  
+Foram salvas as imagens e códigos, observando a codificação dos nomes para manter a ordem em que foram testadas, em dois grupos: para imagnes, quatro Blocos, com quatro imagnes cada; e para os códigos, dois arquivos python.  
 
 >[!NOTE]
 >
 > Os arquivos de imagens foram gerados nos testes, respectivamente, nas etapas:  
->   - 4.2.1. Detect faces, passo 7;  
->   - 4.2.2. Read text, passo 6; e,   
->   - 4.2.3. Analyze images, passo 6.  
+>   - 4.1.3. Prompts de imagens; e,   
+>   - 4.1.4. Prompts para código.  
 >
 
 -------
