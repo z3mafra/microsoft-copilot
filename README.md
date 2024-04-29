@@ -139,7 +139,7 @@ Referências:
 
 
 Prompt:
-Você pode me dar um exemplo prático de prompt eficiente?
+Prompt:   pode me dar um exemplo prático de prompt eficiente?
 
 Copilot
 Gerando respostas para você…
@@ -245,7 +245,7 @@ Referências:
 
 ### 4.1.3. Prompts de Imagens
 
-Você
+Prompt:  
 crie uma imagem da terra vista do espaço, como a pupila de um olho!
 
 *Copilot:*
@@ -260,7 +260,7 @@ Bloco1-03
 Bloco1-04  
 <img src="https://github.com/z3mafra/microsoft-copilot/blob/main/output/Bloco1-04.jpg" width="50%">  
 
-Você
+Prompt:  
 crie uma imagem da terra vista do espaço, como sendo a pupila dentro de um olho!
 
 *Copilot:*
@@ -275,7 +275,7 @@ Bloco2-03
 Bloco2-04  
 <img src="https://github.com/z3mafra/microsoft-copilot/blob/main/output/Bloco2-04.jpg" width="50%">  
 
-Você
+Prompt:  
 crie uma imagem da terra vista do espaço, como sendo a pupila dentro de um olho, como parte de um rosto de pele clara !
 
 *Copilot:*
@@ -290,7 +290,7 @@ Bloco3-03
 Bloco3-04  
 <img src="https://github.com/z3mafra/microsoft-copilot/blob/main/output/Bloco3-04.jpg" width="50%">  
 
-Você
+Prompt:  
 crie uma imagem da terra vista do espaço, como sendo a pupila dentro de um olho e iris negra, como parte de um rosto de pele clara !
 
 *Copilot:*
