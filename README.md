@@ -95,7 +95,7 @@ No GitHub foi criado o diretório 'output' no repositório 'microsoft-copilot'
 > - Carregou o conjunto de imagens.
 >
 
-Foram salvas as imagens e códigos, observando a codificação dos nomes para manter a ordem em que foram testadas, em dois grupos: para imagnes, quatro Blocos, com quatro imagnes cada; e para os códigos, dois arquivos python.  
+Foram salvas as imagens e códigos, observando a codificação dos nomes para manter a ordem em que foram testadas, em dois grupos: para imagnes, quatro Blocos, com quatro imagnes cada; e para os códigos, um arquivo python [tiktaktoe-python.py](https://github.com/z3mafra/microsoft-copilot/blob/main/output/tiktaktoe-python.py).  
 
 >[!NOTE]
 >
@@ -415,7 +415,7 @@ Origem: conversa com o Bing, 29/04/2024
 
 >[!NOTE]
 >
-> O código foi testado e funcionaou satisfatóriamente.    
+> O código foi testado no VSCode e funcionaou satisfatóriamente.    
 >
 
 
@@ -464,7 +464,7 @@ Origem: conversa com o Bing, 29/04/2024
 
 >[!NOTE]
 >
-> O código do aperfeiçoamento da fnção `ganho()` foi testado e funcionaou satisfatóriamente.    
+> O código do aperfeiçoamento da fnção `ganho()` foi testado no VSCode e funcionaou satisfatóriamente.    
 >
   
 Prompt:  
@@ -528,7 +528,7 @@ Lembre-se de adaptar essa lógica ao restante do seu código e testar bem para g
   
 >[!NOTE]
 >
-> O código da adição das opções para reiniciar o jogo ou sair foi testado e teve alguns problemas de implementação.    
+> O código da adição das opções para reiniciar o jogo ou sair foi testado no VSCode e teve alguns problemas de implementação.    
 >
   
   
