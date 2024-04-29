@@ -99,7 +99,7 @@ Foram salvas as imagens e códigos, observando a codificação dos nomes para ma
 
 >[!NOTE]
 >
-> Os arquivos de imagens foram gerados nos testes, respectivamente, nas etapas:  
+> Os arquivos de imagens e códigos foram gerados nos testes, respectivamente, nas etapas:  
 >   - 4.1.3. Prompts de imagens; e,   
 >   - 4.1.4. Prompts para código.  
 >
@@ -131,11 +131,11 @@ Prompt é o termo usado para se referir aos comandos que são dados às ferramen
 >>    3. Divisão em subtarefas: Se a tarefa for complexa, divida-a em subtarefas menores. Isso ajuda a guiar a IA de forma mais eficiente e a obter respostas relevantes.
 Lembre-se: a engenharia de prompt é o processo de criação e refinamento do prompt usado pelo modelo. Ao estruturar prompts de maneira adequada, você está basicamente dando à IA um roteiro para seguir, assim como quando pedimos direções a alguém em um local desconhecido. Quanto mais claro e detalhado for o prompt, mais alinhadas com suas necessidades serão as respostas geradas pela IA.
 
-Referências:
-[1. O que é prompt? Como estruturar na prática?](https://hotmart.com/pt-br/blog/o-que-e-prompt).
-[2. melhor maneira de estruturar um prompt.](https://www.bing.com/search?q=melhor+maneira+de+estruturar+um+prompt&FORM=bngcht&toWww=1&redig=E050BDCA48E14B41866C5F4296FD25C4)
-[3. O que é Engenharia de Prompt e quais as suas principais técnicas? Aprenda a escrever um bom comando para IA.](https://www.alura.com.br/artigos/engenharia-prompt)
-[4. Engenharia de Prompt para não-técnicos: um guia prático.](https://www.startse.com/artigos/engenharia-de-prompt-para-nao-tecnicos-um-guia-pratico/)
+Referências:  
+>> [1. O que é prompt? Como estruturar na prática?](https://hotmart.com/pt-br/blog/o-que-e-prompt).  
+>> [2. melhor maneira de estruturar um prompt.](https://www.bing.com/search?q=melhor+maneira+de+estruturar+um+prompt&FORM=bngcht&toWww=1&redig=E050BDCA48E14B41866C5F4296FD25C4)  
+>> [3. O que é Engenharia de Prompt e quais as suas principais técnicas? Aprenda a escrever um bom comando para IA.](https://www.alura.com.br/artigos/engenharia-prompt)  
+>> [4. Engenharia de Prompt para não-técnicos: um guia prático.](https://www.startse.com/artigos/engenharia-de-prompt-para-nao-tecnicos-um-guia-pratico/)  
 
 
 Prompt:
@@ -207,11 +207,12 @@ Claro! Começar um projeto de pesquisa pode parecer desafiador, mas com as orien
         ◦ Contribuição: Descreva como sua pesquisa contribuirá para o conhecimento existente. Identifique lacunas na literatura que seu projeto pretende preencher. 
 Lembre-se de que um projeto de pesquisa bem estruturado é fundamental para o sucesso do seu trabalho acadêmico. Com essas recomendações, você estará preparado para dar os primeiros passos na sua jornada de pesquisa! 🌟12345
 
-[1. Projeto de Pesquisa.](https://projetodepesquisa.com.br/)
-[2. recomendações para começar um projeto de pesquisa.](https://www.bing.com/search?q=recomendações+para+começar+um+projeto+de+pesquisa&toWww=1&redig=467B49F947434422A8255DDAEF8FD575)
-[3. Projeto de pesquisa pronto: o que é, como fazer e modelos.](https://viacarreira.com/projeto-de-pesquisa/)
-[4. RECOMENDAÇÕES PARA O PROJETO DE PESQUISA.](https://www.unirg.edu.br/anexos/graduacao/Administracao/ESTAGIO/2019/7%20Periodo/Recomendacoes_para_projeto_de_pesquisa.pdf)
-[5. Projeto De Pesquisa: Saiba Por Onde Começar.](https://www.univates.br/blog/projeto-de-pesquisa-por-onde-comecar/)
+Referências:  
+>> [1. Projeto de Pesquisa.](https://projetodepesquisa.com.br/)  
+>> [2. recomendações para começar um projeto de pesquisa.](https://www.bing.com/search?q=recomendações+para+começar+um+projeto+de+pesquisa&toWww=1&redig=467B49F947434422A8255DDAEF8FD575)  
+>> [3. Projeto de pesquisa pronto: o que é, como fazer e modelos.](https://viacarreira.com/projeto-de-pesquisa/)  
+>> [4. RECOMENDAÇÕES PARA O PROJETO DE PESQUISA.](https://www.unirg.edu.br/anexos/graduacao/Administracao/ESTAGIO/2019/7%20Periodo/Recomendacoes_para_projeto_de_pesquisa.pdf)  
+>> [5. Projeto De Pesquisa: Saiba Por Onde Começar.](https://www.univates.br/blog/projeto-de-pesquisa-por-onde-comecar/)  
 
 
 Prompt:
@@ -230,14 +231,15 @@ Desenvolver um projeto de pesquisa pode ser desafiador, mas também recompensado
     3. Metodologia e Pergunta de Pesquisa:
         ◦ Pergunta Bem Definida: A pergunta de pesquisa deve ser clara e nortear todas as decisões do projeto. 
         ◦ Escolha da Metodologia: Definir a estratégia de estudo e os procedimentos metodológicos é fundamental. Isso inclui entender como outros pesquisadores abordaram questões semelhantes. 
-Lembre-se de que a pesquisa é uma jornada de aprendizado e descoberta. Enfrente os desafios com naturalidade e mantenha-se motivado! 🌟1234
+Lembre-se de que a pesquisa é uma jornada de aprendizado e descoberta. Enfrente os desafios com naturalidade e mantenha-se motivado! 🌟
 
-1. As principais dificuldades no projeto de pesquisa. [link com defeito].
-[2. Como Superar os Desafios que Surgem Durante a Pesquisa.](https://www.enago.com.br/academy/como-superar-os-desafios-que-surgem-durante-a-pesquisa/)
-[3. GUIA PARA ELABORAÇÃO DE  PROJETOS DE PESQUISA.](https://www.uece.br/posla/wp-content/uploads/sites/28/2021/08/guiaprojeto_pesquisa.pdf)
-[4. O que é o Problema do Projeto de Pesquisa? Exemplos.](https://alunoexpert.com.br/problema-no-projeto-de-pesquisa/)
-[5. Cinco pontos que não podem faltar no seu projeto de pesquisa.](https://www.ifsc.edu.br/web/blog/w/cinco-pontos-que-nao-podem-faltar-no-seu-projeto-de-pesquisa)
-[6. Como vencer a dificuldade de escrever um projeto de pesquisa?.](https://vitalknowledge.com.br/como-vencer-dificuldade-escrever-projeto-de-pesquisa/)
+Referências:  
+>> 1. As principais dificuldades no projeto de pesquisa. [link com defeito].  
+>> [2. Como Superar os Desafios que Surgem Durante a Pesquisa.](https://www.enago.com.br/academy/como-superar-os-desafios-que-surgem-durante-a-pesquisa/)  
+>> [3. GUIA PARA ELABORAÇÃO DE  PROJETOS DE PESQUISA.](https://www.uece.br/posla/wp-content/uploads/sites/28/2021/08/guiaprojeto_pesquisa.pdf)  
+>> [4. O que é o Problema do Projeto de Pesquisa? Exemplos.](https://alunoexpert.com.br/problema-no-projeto-de-pesquisa/)
+>> [5. Cinco pontos que não podem faltar no seu projeto de pesquisa.](https://www.ifsc.edu.br/web/blog/w/cinco-pontos-que-nao-podem-faltar-no-seu-projeto-de-pesquisa)  
+>> [6. Como vencer a dificuldade de escrever um projeto de pesquisa?.](https://vitalknowledge.com.br/como-vencer-dificuldade-escrever-projeto-de-pesquisa/)  
 
 
 ### 4.1.3. Prompts de Imagens
@@ -245,7 +247,8 @@ Lembre-se de que a pesquisa é uma jornada de aprendizado e descoberta. Enfrente
 Você
 crie uma imagem da terra vista do espaço, como a pupila de um olho!
 
-Bloco 1
+Bloco 1:  
+
 <img src="https://github.com/z3mafra/microsoft-copilot/blob/main/output/Bloco1-01.jpg" width="50%">
 
 <img src="https://github.com/z3mafra/microsoft-copilot/blob/main/output/Bloco1-02.jpg" width="50%">
@@ -257,7 +260,8 @@ Bloco 1
 Você
 crie uma imagem da terra vista do espaço, como sendo a pupila dentro de um olho!
 
-Bloco 2
+Bloco 2:  
+
 <img src="https://github.com/z3mafra/microsoft-copilot/blob/main/output/Bloco2-01.jpg" width="50%">
 
 <img src="https://github.com/z3mafra/microsoft-copilot/blob/main/output/Bloco2-02.jpg" width="50%">
@@ -269,7 +273,8 @@ Bloco 2
 Você
 crie uma imagem da terra vista do espaço, como sendo a pupila dentro de um olho, como parte de um rosto de pele clara !
 
-Bloco 3
+Bloco 3:  
+
 <img src="https://github.com/z3mafra/microsoft-copilot/blob/main/output/Bloco3-01.jpg" width="50%">
 
 <img src="https://github.com/z3mafra/microsoft-copilot/blob/main/output/Bloco3-02.jpg" width="50%">
@@ -281,7 +286,8 @@ Bloco 3
 Você
 crie uma imagem da terra vista do espaço, como sendo a pupila dentro de um olho e iris negra, como parte de um rosto de pele clara !
 
-Bloco 4
+Bloco 4:  
+
 <img src="https://github.com/z3mafra/microsoft-copilot/blob/main/output/Bloco4-01.jpg" width="50%">
 
 <img src="https://github.com/z3mafra/microsoft-copilot/blob/main/output/Bloco4-02.jpg" width="50%">
