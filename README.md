@@ -393,15 +393,15 @@ Agora você tem um esqueleto básico para o seu jogo da velha em Python! Divirta
 
 Se precisar de mais ajuda ou tiver alguma dúvida, estou à disposição! 🚀
 
-Origem: conversa com o Bing, 29/04/2024
-(1) [Jogo da Velha em Python com 100 linhas de codigo.](https://www.youtube.com/watch?v=TvjZzo7bR6E)
-(2) [Jogo da Velha em Python #P1 - Curso de Python #30.](https://www.youtube.com/watch?v=AhO-KN_tXSM)
-(3) [Como Programar o Jogo da Velha em Python.](https://www.youtube.com/watch?v=1DZ12S1Fi0Y)
-(4) [Jogo da Velha em Python: Como Programar - Python Progressivo.](https://www.pythonprogressivo.net/2018/10/Como-Criar-Jogo-Velha-Python.html)
-(5) [Jogo da Velha com Python | Asimov Academy.](https://hub.asimov.academy/projeto/jogo-da-velha/.
-(6) [Jogo da Velha em Python: Aprenda a criar seu próprio jogo.](https://awari.com.br/jogo-da-velha-em-python-aprenda-a-criar-seu-proprio-jogo/)
-(7) [Jogo da velha escrito em python para 1 ou 2 jogadores.](https://pythonrepo.com/repo/Gcastelo01-jogo-da-velha).
-(8) [undefined.](https://github.com/Leonardo-Nunes-Armelim/Bytes_Universe/tree/main/Python/002_Tic_Tac_Toe_en_Python_Jogo_da_Velha_pt_BR/V1)
+Origem: conversa com o Bing, 29/04/2024  
+(1) [Jogo da Velha em Python com 100 linhas de codigo.](https://www.youtube.com/watch?v=TvjZzo7bR6E)  
+(2) [Jogo da Velha em Python #P1 - Curso de Python #30.](https://www.youtube.com/watch?v=AhO-KN_tXSM)  
+(3) [Como Programar o Jogo da Velha em Python.](https://www.youtube.com/watch?v=1DZ12S1Fi0Y)  
+(4) [Jogo da Velha em Python: Como Programar - Python Progressivo.](https://www.pythonprogressivo.net/2018/10/Como-Criar-Jogo-Velha-Python.html)  
+(5) [Jogo da Velha com Python | Asimov Academy.](https://hub.asimov.academy/projeto/jogo-da-velha/)  
+(6) [Jogo da Velha em Python: Aprenda a criar seu próprio jogo.](https://awari.com.br/jogo-da-velha-em-python-aprenda-a-criar-seu-proprio-jogo/)  
+(7) [Jogo da velha escrito em python para 1 ou 2 jogadores.](https://pythonrepo.com/repo/Gcastelo01-jogo-da-velha)  
+(8) [undefined.](https://github.com/Leonardo-Nunes-Armelim/Bytes_Universe/tree/main/Python/002_Tic_Tac_Toe_en_Python_Jogo_da_Velha_pt_BR/V1)  
 
 [1]: https://www.youtube.com/watch?v=TvjZzo7bR6E ""
 [2]: https://www.youtube.com/watch?v=AhO-KN_tXSM ""
