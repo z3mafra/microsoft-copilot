@@ -152,7 +152,7 @@ Prompt:
 Escreva um poema curto que celebre a beleza das quatro estações do ano: primavera, verão, outono e inverno. Destaque as características únicas de cada estação, como as cores, os aromas e as sensações que elas evocam. Seja poético e envolvente.
 
 
-Copilot  
+*Copilot:*  
 >>   Gerando respostas para você…
 >>   Certamente! Aqui está um poema que celebra as quatro estações do ano:
 
@@ -195,7 +195,7 @@ Copilot
 Prompt:
 Quais três recomendações para começar um projeto de pesquisa? Ter uma boa ideia para trabalhar?
 
-Copilot 
+*Copilot:* 
 Claro! Começar um projeto de pesquisa pode parecer desafiador, mas com as orientações certas, Prompt: estará no caminho certo. Aqui estão três recomendações essenciais para iniciar seu projeto de pesquisa:
 >>   1. Escolha de Tema e Formulação da Pergunta de Pesquisa:
 >>      ◦ Tema Específico: Selecione um tema específico que desperte seu interesse. Evite temas muito amplos, pois podem dificultar a abordagem detalhada. 
@@ -219,7 +219,7 @@ Referências:
 Prompt:  
 Quais seriam três dificuldades enfrentadas por quem vai desenvolver um projeto de pesquisa?
 
-Copilot  
+*Copilot:*  
 Desenvolver um projeto de pesquisa pode ser desafiador, mas também recompensador. Aqui estão três dificuldades comuns que os pesquisadores enfrentam durante o processo:
 >>   1. Estruturação do Projeto:
 >>      ◦ Identificação de Fontes Relevantes: Muitos alunos têm dificuldade em encontrar fontes pertinentes ao projeto de pesquisa. Saber onde buscar informações é essencial. 
@@ -248,6 +248,7 @@ Referências:
 Você
 crie uma imagem da terra vista do espaço, como a pupila de um olho!
 
+*Copilot:*
 Bloco 1:  
 
 Bloco1-01  
@@ -262,6 +263,7 @@ Bloco1-04
 Você
 crie uma imagem da terra vista do espaço, como sendo a pupila dentro de um olho!
 
+*Copilot:*
 Bloco 2:  
 
 Bloco2-01  
@@ -276,6 +278,7 @@ Bloco2-04
 Você
 crie uma imagem da terra vista do espaço, como sendo a pupila dentro de um olho, como parte de um rosto de pele clara !
 
+*Copilot:*
 Bloco 3:  
 
 Bloco3-01  
@@ -290,6 +293,7 @@ Bloco3-04
 Você
 crie uma imagem da terra vista do espaço, como sendo a pupila dentro de um olho e iris negra, como parte de um rosto de pele clara !
 
+*Copilot:*
 Bloco 4:  
 
 Bloco4-01  
@@ -304,7 +308,109 @@ Bloco4-04
 
 ### 4.1.3. Prompts de código
 
+Prompt:  
+Me ajude a criar um jogo da velha usando o python  
 
+*Copilot:*
+Claro! Vou te guiar na criação de um **jogo da velha** em Python. O jogo da velha é um ótimo projeto para praticar lógica de programação e estruturas de dados. Vamos lá!
+
+1. **Lógica do Jogo da Velha**:
+   - Vamos usar uma matriz (lista dentro de lista) de tamanho **3x3** para representar o tabuleiro.
+   - Cada jogador escolhe uma linha e uma coluna no tabuleiro para fazer sua jogada.
+   - Se for o **jogador 1**, ele assinala um **X** na posição escolhida.
+   - Se for o **jogador 2**, ele assinala um **O** na posição escolhida.
+   - Só é possível inserir um **X** ou **O** se a posição estiver vazia.
+   - O jogo continua até que alguém complete uma linha, coluna ou diagonal com seus símbolos ou até que todas as posições estejam preenchidas.
+
+2. **Passos para Criar o Jogo da Velha**:
+
+   - **Inicialização do Tabuleiro**:
+     ~~~python
+     board = [[0, 0, 0], [0, 0, 0], [0, 0, 0]]
+     ~~~
+
+   - **Exibição do Tabuleiro**:
+     ~~~python
+     def exibe():
+         for linha in board:
+             for valor in linha:
+                 if valor == 0:
+                     print("__", end=" ")
+                 elif valor == 1:
+                     print("X", end=" ")
+                 else:
+                     print("O", end=" ")
+             print()
+     ~~~
+
+   - **Função para Verificar se Alguém Ganhou**:
+     ~~~python
+     def ganhou():
+         # Verifica linhas, colunas e diagonais
+         # Retorna 1 se o jogador 1 ganhou, -1 se o jogador 2 ganhou, ou 0 se não houver vencedor.
+         # Implemente a lógica aqui.
+         pass
+     ~~~
+
+   - **Função Principal do Jogo**:
+     ~~~python
+     def main():
+         jogada = 0
+         while True:
+             exibe()
+             jogador = (jogada % 2) + 1
+             print(f"Jogador {jogador}, é sua vez:")
+             linha = int(input("Digite a linha (1, 2 ou 3): ")) - 1
+             coluna = int(input("Digite a coluna (1, 2 ou 3): ")) - 1
+
+             if board[linha][coluna] == 0:
+                 board[linha][coluna] = 1 if jogador == 1 else -1
+                 jogada += 1
+             else:
+                 print("Posição já ocupada. Tente novamente.")
+
+             resultado = ganhou()
+             if resultado != 0:
+                 exibe()
+                 if resultado == 1:
+                     print("Jogador 1 (X) venceu!")
+                 else:
+                     print("Jogador 2 (O) venceu!")
+                 break
+
+         print("Fim do jogo!")
+
+     if __name__ == "__main__":
+         main()
+     ~~~
+
+3. **Teste e Aperfeiçoamento**:
+   - Execute o código e teste o jogo.
+   - Aperfeiçoe a função `ganhou()` para verificar se alguém ganhou.
+   - Adicione opções para reiniciar o jogo ou sair.
+
+Agora você tem um esqueleto básico para o seu jogo da velha em Python! Divirta-se programando e personalizando o jogo conforme sua criatividade! 😊
+
+Se precisar de mais ajuda ou tiver alguma dúvida, estou à disposição! 🚀
+
+Origem: conversa com o Bing, 29/04/2024
+(1) [Jogo da Velha em Python com 100 linhas de codigo.](https://www.youtube.com/watch?v=TvjZzo7bR6E)
+(2) [Jogo da Velha em Python #P1 - Curso de Python #30.](https://www.youtube.com/watch?v=AhO-KN_tXSM)
+(3) [Como Programar o Jogo da Velha em Python.](https://www.youtube.com/watch?v=1DZ12S1Fi0Y)
+(4) [Jogo da Velha em Python: Como Programar - Python Progressivo.](https://www.pythonprogressivo.net/2018/10/Como-Criar-Jogo-Velha-Python.html)
+(5) [Jogo da Velha com Python | Asimov Academy.](https://hub.asimov.academy/projeto/jogo-da-velha/.
+(6) [Jogo da Velha em Python: Aprenda a criar seu próprio jogo.](https://awari.com.br/jogo-da-velha-em-python-aprenda-a-criar-seu-proprio-jogo/)
+(7) [Jogo da velha escrito em python para 1 ou 2 jogadores.](https://pythonrepo.com/repo/Gcastelo01-jogo-da-velha).
+(8) [undefined.](https://github.com/Leonardo-Nunes-Armelim/Bytes_Universe/tree/main/Python/002_Tic_Tac_Toe_en_Python_Jogo_da_Velha_pt_BR/V1)
+
+[1]: https://www.youtube.com/watch?v=TvjZzo7bR6E ""
+[2]: https://www.youtube.com/watch?v=AhO-KN_tXSM ""
+[3]: https://www.youtube.com/watch?v=1DZ12S1Fi0Y ""
+[4]: https://www.pythonprogressivo.net/2018/10/Como-Criar-Jogo-Velha-Python.html ""
+[5]: https://hub.asimov.academy/projeto/jogo-da-velha/ ""
+[6]: https://awari.com.br/jogo-da-velha-em-python-aprenda-a-criar-seu-proprio-jogo/ ""
+[7]: https://pythonrepo.com/repo/Gcastelo01-jogo-da-velha ""
+[8]: https://github.com/Leonardo-Nunes-Armelim/Bytes_Universe/tree/main/Python/002_Tic_Tac_Toe_en_Python_Jogo_da_Velha_pt_BR/V1 ""
 
 ====
 ## 4.2. Explore Azure OpenAI
