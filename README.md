@@ -139,7 +139,7 @@ Referências:
 
 
 Prompt:
-Prompt:   pode me dar um exemplo prático de prompt eficiente?
+Pode me dar um exemplo prático de prompt eficiente?
 
 Copilot
 Gerando respostas para você…  
@@ -197,15 +197,15 @@ Quais três recomendações para começar um projeto de pesquisa? Ter uma boa id
 
 *Copilot:* 
 Claro! Começar um projeto de pesquisa pode parecer desafiador, mas com as orientações certas, Prompt: estará no caminho certo. Aqui estão três recomendações essenciais para iniciar seu projeto de pesquisa:
->   1. Escolha de Tema e Formulação da Pergunta de Pesquisa:
->>      ◦ Tema Específico: Selecione um tema específico que desperte seu interesse. Evite temas muito amplos, pois podem dificultar a abordagem detalhada. 
->>      ◦ Pergunta Clara: Formule uma pergunta de pesquisa clara e concisa. Ela deve ser o ponto central do seu projeto e direcionar sua investigação. 
->   2. Definição dos Objetivos:
->>      ◦ Objetivo Geral: Determine o objetivo geral do seu projeto. O que você deseja alcançar com sua pesquisa? 
->>      ◦ Objetivos Específicos: Estabeleça objetivos específicos que direcionem sua investigação em detalhes. Eles ajudarão a delinear o escopo do trabalho. 
->   3. Justificativa e Importância do Estudo:
->>      ◦ Justificativa: Explique por que sua pesquisa é relevante. Qual é a importância do seu estudo para a área acadêmica ou profissional? 
->>      ◦ Contribuição: Descreva como sua pesquisa contribuirá para o conhecimento existente. Identifique lacunas na literatura que seu projeto pretende preencher.  
+>   1. Escolha de Tema e Formulação da Pergunta de Pesquisa:  
+>      ◦ Tema Específico: Selecione um tema específico que desperte seu interesse. Evite temas muito amplos, pois podem dificultar a abordagem detalhada.  
+>      ◦ Pergunta Clara: Formule uma pergunta de pesquisa clara e concisa. Ela deve ser o ponto central do seu projeto e direcionar sua investigação.  
+>   2. Definição dos Objetivos:  
+>      ◦ Objetivo Geral: Determine o objetivo geral do seu projeto. O que você deseja alcançar com sua pesquisa?  
+>      ◦ Objetivos Específicos: Estabeleça objetivos específicos que direcionem sua investigação em detalhes. Eles ajudarão a delinear o escopo do trabalho.  
+>   3. Justificativa e Importância do Estudo:  
+>      ◦ Justificativa: Explique por que sua pesquisa é relevante. Qual é a importância do seu estudo para a área acadêmica ou profissional?  
+>      ◦ Contribuição: Descreva como sua pesquisa contribuirá para o conhecimento existente. Identifique lacunas na literatura que seu projeto pretende preencher.  
 >   Lembre-se de que um projeto de pesquisa bem estruturado é fundamental para o sucesso do seu trabalho acadêmico. Com essas recomendações, você estará preparado para dar os primeiros passos na sua jornada de pesquisa! 🌟  
   
 Referências:  
@@ -221,17 +221,17 @@ Quais seriam três dificuldades enfrentadas por quem vai desenvolver um projeto 
 
 *Copilot:*  
 Desenvolver um projeto de pesquisa pode ser desafiador, mas também recompensador. Aqui estão três dificuldades comuns que os pesquisadores enfrentam durante o processo:
->   1. Estruturação do Projeto:
->>      ◦ Identificação de Fontes Relevantes: Muitos alunos têm dificuldade em encontrar fontes pertinentes ao projeto de pesquisa. Saber onde buscar informações é essencial. 
->>      ◦ Utilização das Fontes: Compreender como usar as informações das fontes no projeto é outro desafio. Isso inclui a elaboração de citações indiretas e a avaliação da qualidade das informações. 
->>      ◦ Relação entre Teoria e Método: Relacionar o material teórico com o método escolhido para a pesquisa pode ser complexo. É importante alinhar a teoria com a prática. 
->   2. Escolha do Tema e Base Teórica:
->>      ◦ Interesse Pessoal: Escolher um tema pelo qual você realmente se interesse é crucial. Isso manterá sua motivação e facilitará a pesquisa. 
->>      ◦ Leitura Ampliada: Consumir diferentes tipos de conteúdo relacionados ao tema (artigos, livros, dissertações) amplia sua compreensão e embasa sua pesquisa. 
->>      ◦ Diferencial e Adaptações: Procure um diferencial em relação ao que outros pesquisadores estão fazendo. Esteja aberto a fazer adaptações conforme necessário. 
->   3. Metodologia e Pergunta de Pesquisa:
->>      ◦ Pergunta Bem Definida: A pergunta de pesquisa deve ser clara e nortear todas as decisões do projeto. 
->>      ◦ Escolha da Metodologia: Definir a estratégia de estudo e os procedimentos metodológicos é fundamental. Isso inclui entender como outros pesquisadores abordaram questões semelhantes.  
+>   1. Estruturação do Projeto:  
+>      ◦ Identificação de Fontes Relevantes: Muitos alunos têm dificuldade em encontrar fontes pertinentes ao projeto de pesquisa. Saber onde buscar informações é essencial.  
+>      ◦ Utilização das Fontes: Compreender como usar as informações das fontes no projeto é outro desafio. Isso inclui a elaboração de citações indiretas e a avaliação da qualidade das informações.  
+>      ◦ Relação entre Teoria e Método: Relacionar o material teórico com o método escolhido para a pesquisa pode ser complexo. É importante alinhar a teoria com a prática.  
+>   2. Escolha do Tema e Base Teórica:  
+>      ◦ Interesse Pessoal: Escolher um tema pelo qual você realmente se interesse é crucial. Isso manterá sua motivação e facilitará a pesquisa.  
+>      ◦ Leitura Ampliada: Consumir diferentes tipos de conteúdo relacionados ao tema (artigos, livros, dissertações) amplia sua compreensão e embasa sua pesquisa.  
+>      ◦ Diferencial e Adaptações: Procure um diferencial em relação ao que outros pesquisadores estão fazendo. Esteja aberto a fazer adaptações conforme necessário.  
+>   3. Metodologia e Pergunta de Pesquisa:  
+>      ◦ Pergunta Bem Definida: A pergunta de pesquisa deve ser clara e nortear todas as decisões do projeto.  
+>      ◦ Escolha da Metodologia: Definir a estratégia de estudo e os procedimentos metodológicos é fundamental. Isso inclui entender como outros pesquisadores abordaram questões semelhantes.  
 >
 >   Lembre-se de que a pesquisa é uma jornada de aprendizado e descoberta. Enfrente os desafios com naturalidade e mantenha-se motivado! 🌟  
 
