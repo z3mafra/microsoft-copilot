@@ -415,7 +415,7 @@ Origem: conversa com o Bing, 29/04/2024
 
 >[!NOTE]
 >
-> O código foi testado no VSCode e funcionaou satisfatóriamente.    
+> O código foi testado no VSCode e funcionou satisfatóriamente.    
 >
 
 
@@ -464,7 +464,7 @@ Origem: conversa com o Bing, 29/04/2024
 
 >[!NOTE]
 >
-> O código do aperfeiçoamento da fnção `ganho()` foi testado no VSCode e funcionaou satisfatóriamente.    
+> O código do aperfeiçoamento da fnção `ganho()` foi testado no VSCode e funcionou satisfatóriamente.    
 >
   
 Prompt:  
