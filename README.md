@@ -121,16 +121,16 @@ Na parte inferior da tela, você verá uma janela Pergunte-me qualquer coisa. À
 
 ### 4.1.1. Explorando prompts
 
-Prompt:
-Qual a melhor maneira de estruturar um prompt?
+Prompt:  
+Qual a melhor maneira de estruturar um prompt?  
 
-Resposta:
-Prompt é o termo usado para se referir aos comandos que são dados às ferramentas de inteligência artificial generativa. É a forma de pedir para que a IA crie algo que você precisa de maneira mais efetiva. Vamos entender como estruturar prompts de forma prática e eficiente:
->    1. Clareza: Para criar prompts que realmente despertem a criatividade, tenha clareza e use palavras simples e diretas, como se estivesse explicando algo a um amigo. Frases curtas e bem definidas guiam a IA diretamente ao ponto, sem rodeios. Pense em eficiência: quanto mais direto, melhor o resultado.
->    2. Especificidade: Contextualize seu pedido, adicionando detalhes do que você deseja. Por exemplo, ao invés de digitar “crie um conteúdo sobre marketing”, seja mais específico: “crie um guia passo a passo sobre estratégias de marketing para pequenas empresas no setor de tecnologia”. Quanto mais claros e detalhados forem os prompts, mais precisas e alinhadas com suas expectativas serão as respostas da IA.
->    3. Divisão em subtarefas: Se a tarefa for complexa, divida-a em subtarefas menores. Isso ajuda a guiar a IA de forma mais eficiente e a obter respostas relevantes.
-Lembre-se: a engenharia de prompt é o processo de criação e refinamento do prompt usado pelo modelo. Ao estruturar prompts de maneira adequada, você está basicamente dando à IA um roteiro para seguir, assim como quando pedimos direções a alguém em um local desconhecido. Quanto mais claro e detalhado for o prompt, mais alinhadas com suas necessidades serão as respostas geradas pela IA.
-
+Resposta:  
+Prompt é o termo usado para se referir aos comandos que são dados às ferramentas de inteligência artificial generativa. É a forma de pedir para que a IA crie algo que você precisa de maneira mais efetiva. Vamos entender como estruturar prompts de forma prática e eficiente:  
+>    1. Clareza: Para criar prompts que realmente despertem a criatividade, tenha clareza e use palavras simples e diretas, como se estivesse explicando algo a um amigo. Frases curtas e bem definidas guiam a IA diretamente ao ponto, sem rodeios. Pense em eficiência: quanto mais direto, melhor o resultado.  
+>    2. Especificidade: Contextualize seu pedido, adicionando detalhes do que você deseja. Por exemplo, ao invés de digitar “crie um conteúdo sobre marketing”, seja mais específico: “crie um guia passo a passo sobre estratégias de marketing para pequenas empresas no setor de tecnologia”. Quanto mais claros e detalhados forem os prompts, mais precisas e alinhadas com suas expectativas serão as respostas da IA.  
+>    3. Divisão em subtarefas: Se a tarefa for complexa, divida-a em subtarefas menores. Isso ajuda a guiar a IA de forma mais eficiente e a obter respostas relevantes.  
+Lembre-se: a engenharia de prompt é o processo de criação e refinamento do prompt usado pelo modelo. Ao estruturar prompts de maneira adequada, você está basicamente dando à IA um roteiro para seguir, assim como quando pedimos direções a alguém em um local desconhecido. Quanto mais claro e detalhado for o prompt, mais alinhadas com suas necessidades serão as respostas geradas pela IA.  
+  
 Referências:  
 > [1. O que é prompt? Como estruturar na prática?](https://hotmart.com/pt-br/blog/o-que-e-prompt).  
 > [2. melhor maneira de estruturar um prompt.](https://www.bing.com/search?q=melhor+maneira+de+estruturar+um+prompt&FORM=bngcht&toWww=1&redig=E050BDCA48E14B41866C5F4296FD25C4)  
@@ -138,14 +138,14 @@ Referências:
 > [4. Engenharia de Prompt para não-técnicos: um guia prático.](https://www.startse.com/artigos/engenharia-de-prompt-para-nao-tecnicos-um-guia-pratico/)  
 
 
-Prompt:
+Prompt:  
 Pode me dar um exemplo prático de prompt eficiente?
 
-Copilot
+Copilot:  
 Gerando respostas para você…  
-Claro! Vamos criar um exemplo de prompt eficiente para gerar um poema sobre a beleza das estações do ano. Aqui está um prompt bem estruturado:
->>   "Escreva um poema curto que celebre a beleza das quatro estações do ano: primavera, verão, outono e inverno. Destaque as características únicas de cada estação, como as cores, os aromas e as sensações que elas evocam. Seja poético e envolvente."  
->>   Com esse prompt, a IA terá uma direção clara e específica para criar um poema que atenda às suas expectativas. Lembre-se de adaptar o prompt conforme a tarefa desejada, adicionando detalhes relevantes para obter resultados ainda mais precisos e criativos.  
+Claro! Vamos criar um exemplo de prompt eficiente para gerar um poema sobre a beleza das estações do ano. Aqui está um prompt bem estruturado:  
+>   "Escreva um poema curto que celebre a beleza das quatro estações do ano: primavera, verão, outono e inverno. Destaque as características únicas de cada estação, como as cores, os aromas e as sensações que elas evocam. Seja poético e envolvente."  
+>   Com esse prompt, a IA terá uma direção clara e específica para criar um poema que atenda às suas expectativas. Lembre-se de adaptar o prompt conforme a tarefa desejada, adicionando detalhes relevantes para obter resultados ainda mais precisos e criativos.  
 
 
 Prompt:  
