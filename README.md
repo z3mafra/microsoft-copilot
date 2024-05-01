@@ -151,8 +151,8 @@ Claro! Vamos criar um exemplo de prompt eficiente para gerar um poema sobre a be
 Prompt:  
 Escreva um poema curto que celebre a beleza das quatro estações do ano: primavera, verão, outono e inverno. Destaque as características únicas de cada estação, como as cores, os aromas e as sensações que elas evocam. Seja poético e envolvente.  
 
->
->*Copilot:*  
+
+Copilot:  
 >   Gerando respostas para você…
 >   Certamente! Aqui está um poema que celebra as quatro estações do ano:
 >
